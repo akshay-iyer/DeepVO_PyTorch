@@ -13,3 +13,6 @@ python test.py
 
 To train the model, run:
 python main.py
+
+Visual Odometry in action : 
+[![Watch the video](https://github.com/akshay-iyer/Stereo-Visual-Odometry/blob/master/tn.png)](https://www.youtube.com/watch?v=B-6oqZwLLEs&t=4s)
