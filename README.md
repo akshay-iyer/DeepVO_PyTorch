@@ -6,6 +6,8 @@ pip3 install -r requirements.txt
 
 Download the KITTI dataset of image sequences for Visual Odometry
 
+Download pretrained model from : https://drive.google.com/open?id=1FfBokYsSSfMGV-FeTskNHAYaKXAZWAx_
+
 To infer using trained model, run:
 python test.py
 
