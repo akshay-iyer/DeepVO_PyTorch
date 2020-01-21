@@ -1,0 +1,10 @@
+html5lib==0.999
+matplotlib
+numpy
+pandas
+Pillow
+pycurl==7.43.0
+requests==2.9.1
+scipy==0.17.0
+torch
+torchvision
