@@ -4,7 +4,7 @@
 This is a PyTorch implementation of the paper `DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks`
 [link](https://arxiv.org/abs/1709.08429). 
 
-![alt text](arch.png)
+![alt text](arch.PNG)
 
 
 ## Problem Statement
@@ -30,7 +30,7 @@ LSTM Details:
 - 2 Layer LSTM each with a hidden unit size of 1000
 - Each layer has between 5-7 repeating units
 
-![alt text](conv_lstm.png)
+![alt text](conv_lstm.PNG)
 
 ## Requirements
 
